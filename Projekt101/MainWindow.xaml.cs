@@ -19,7 +19,7 @@ namespace Projekt101
 
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml.
     /// </summary>
 
 
